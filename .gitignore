@@ -41,3 +41,12 @@ bin/
 ### Mac OS ###
 .DS_Store
 /local.properties
+
+.idea
+.idea/
+.idea/artifacts/common_desktop_1_0_SNAPSHOT.xml
+.idea/artifacts/desktop_jvm_1_0_SNAPSHOT.xml
+.idea/gradle.xml
+.idea/kotlinc.xml
+.idea/misc.xml
+ios/Pods/
