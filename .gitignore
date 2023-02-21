@@ -50,3 +50,21 @@ bin/
 .idea/kotlinc.xml
 .idea/misc.xml
 ios/Pods/
+.idea/misc.xml
+.idea/kotlinc.xml
+.idea/gradle.xml
+.idea/artifacts/desktop_jvm_1_0_SNAPSHOT.xml
+.idea/artifacts/common_desktop_1_0_SNAPSHOT.xml
+ios/iosApp.xcodeproj/xcuserdata/kradwan.xcuserdatad/xcschemes/xcschememanagement.plist
+ios/iosApp.xcworkspace/xcuserdata/kradwan.xcuserdatad/UserInterfaceState.xcuserstate
+ios/Podfile.lock
+ios/Pods/Local Podspecs/common.podspec.json
+ios/Pods/Local Podspecs/shared.podspec.json
+ios/Pods/Manifest.lock
+ios/Pods/Pods.xcodeproj/project.pbxproj
+ios/Pods/Target Support Files/common/common.debug.xcconfig
+ios/Pods/Target Support Files/common/common.release.xcconfig
+ios/Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig
+ios/Pods/Target Support Files/Pods-iosApp/Pods-iosApp.release.xcconfig
+java_pid4478.hprof
+java_pid5660.hprof
